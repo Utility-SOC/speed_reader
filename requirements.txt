@@ -1,0 +1,7 @@
+Pillow
+pdfplumber
+ebooklib
+python-docx
+beautifulsoup4
+pytest
+pyinstaller
